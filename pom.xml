@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>authentication</name>
 	<description>Authentication Module </description>
-	<url>https://github.com/AhmadAltayeh/authentication</url>
+	<url>https://github.com/AhmadAltayeh/authentication/tree/master</url>
 
 	<developers>
 		<developer>
@@ -42,8 +42,8 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git://github.com/AhmadAltayeh/authentication.git</connection>
-		<developerConnection>scm:git:ssh://github.com:AhmadAltayeh/authentication.git</developerConnection>
+		<connection>scm:git:git://github.com/AhmadAltayeh/authentication/tree/master.git</connection>
+		<developerConnection>scm:git:ssh://github.com:AhmadAltayeh/authentication/tree/master.git</developerConnection>
 		<url>http://github.com/simpligility/ossrh-demo/tree/master</url>
 	</scm>
 
