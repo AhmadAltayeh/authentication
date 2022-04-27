@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>io.github.ahmadaltayeh</groupId>
 	<artifactId>authentication</artifactId>
-	<version>1.0.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>authentication</name>
 	<description>Authentication Module </description>
 	<url>https://github.com/AhmadAltayeh/authentication/tree/master</url>
