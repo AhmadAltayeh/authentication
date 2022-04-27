@@ -8,18 +8,18 @@
 		<version>2.6.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.switch.authentication</groupId>
+	<groupId>com.github.ahmadaltayeh</groupId>
 	<artifactId>authentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>authentication</name>
 	<description>Authentication Module </description>
-	<url>https://bitbucket.org/ahmad_altayeh/authentication</url>
+	<url>https://github.com/AhmadAltayeh/authentication</url>
 
 	<developers>
 		<developer>
 			<name>Ahmad Altayeh</name>
 			<email>atayeh@switch.com.jo</email>
-			<organization>com.switch</organization>
+			<organization>com.ahmadaltayeh</organization>
 		</developer>
 	</developers>
 
@@ -42,9 +42,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git://bitbucket.org/ahmad_altayeh/authentication.git</connection>
-		<developerConnection>scm:git:ssh://bitbucket.org:ahmad_altayeh/authentication.git</developerConnection>
-		<url>https://bitbucket.org/ahmad_altayeh/authentication</url>
+		<connection>scm:git:git://github.com/AhmadAltayeh/authentication.git</connection>
+		<developerConnection>scm:git:ssh://github.com:AhmadAltayeh/authentication.git</developerConnection>
+		<url>http://github.com/simpligility/ossrh-demo/tree/master</url>
 	</scm>
 
 	<properties>
